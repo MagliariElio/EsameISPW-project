@@ -7,7 +7,8 @@ public class Main {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(concatenation("Hello", "World"));
+		String output = concatenation("Hello", "World");
+		System.out.println(output);
 	}
 
 }
